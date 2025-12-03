@@ -1,0 +1,1 @@
+/home/jaalduna/.config/omarchy/current/theme/neovim.lua
